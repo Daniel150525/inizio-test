@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.vscode/
+.idea/
+results.json
+*.log
+*.env
